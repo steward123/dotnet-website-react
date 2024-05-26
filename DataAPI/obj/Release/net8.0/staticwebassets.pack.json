@@ -1,0 +1,25 @@
+{
+  "Files": [
+    {
+      "Id": "C:\\soumit-docs-files\\temp\\dotnet_codes\\dotnet-website-react\\DataAPI\\wwwroot\\Resume-Soumit-Mondal.pdf",
+      "PackagePath": "staticwebassets\\Resume-Soumit-Mondal.pdf"
+    },
+    {
+      "Id": "obj\\Release\\net8.0\\staticwebassets\\msbuild.DataAPI.Microsoft.AspNetCore.StaticWebAssets.props",
+      "PackagePath": "build\\Microsoft.AspNetCore.StaticWebAssets.props"
+    },
+    {
+      "Id": "obj\\Release\\net8.0\\staticwebassets\\msbuild.build.DataAPI.props",
+      "PackagePath": "build\\DataAPI.props"
+    },
+    {
+      "Id": "obj\\Release\\net8.0\\staticwebassets\\msbuild.buildMultiTargeting.DataAPI.props",
+      "PackagePath": "buildMultiTargeting\\DataAPI.props"
+    },
+    {
+      "Id": "obj\\Release\\net8.0\\staticwebassets\\msbuild.buildTransitive.DataAPI.props",
+      "PackagePath": "buildTransitive\\DataAPI.props"
+    }
+  ],
+  "ElementsToRemove": []
+}

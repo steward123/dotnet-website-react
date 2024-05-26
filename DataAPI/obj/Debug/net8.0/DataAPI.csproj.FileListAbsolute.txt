@@ -44,3 +44,4 @@ C:\soumit-docs-files\temp\dotnet_codes\dotnet-website-react\DataAPI\obj\Debug\ne
 C:\soumit-docs-files\temp\dotnet_codes\dotnet-website-react\DataAPI\obj\Debug\net8.0\DataAPI.genruntimeconfig.cache
 C:\soumit-docs-files\temp\dotnet_codes\dotnet-website-react\DataAPI\obj\Debug\net8.0\ref\DataAPI.dll
 C:\soumit-docs-files\temp\dotnet_codes\dotnet-website-react\DataAPI\bin\Debug\net8.0\DataAPI.staticwebassets.runtime.json
+C:\soumit-docs-files\temp\dotnet_codes\dotnet-website-react\DataAPI\obj\Debug\net8.0\DataAPI.sourcelink.json

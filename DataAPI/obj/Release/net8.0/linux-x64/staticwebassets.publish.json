@@ -1,0 +1,39 @@
+{
+  "Version": 1,
+  "Hash": "uKLfPUTRkruXopRv63ySvHaYfvZlUv038vtrHRu4TpI=",
+  "Source": "DataAPI",
+  "BasePath": "_content/DataAPI",
+  "Mode": "Default",
+  "ManifestType": "Publish",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [
+    {
+      "Name": "DataAPI\\wwwroot",
+      "Source": "DataAPI",
+      "ContentRoot": "C:\\soumit-docs-files\\temp\\dotnet_codes\\dotnet-website-react\\DataAPI\\wwwroot\\",
+      "BasePath": "_content/DataAPI",
+      "Pattern": "**"
+    }
+  ],
+  "Assets": [
+    {
+      "Identity": "C:\\soumit-docs-files\\temp\\dotnet_codes\\dotnet-website-react\\DataAPI\\wwwroot\\Resume-Soumit-Mondal.pdf",
+      "SourceId": "DataAPI",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\soumit-docs-files\\temp\\dotnet_codes\\dotnet-website-react\\DataAPI\\wwwroot\\",
+      "BasePath": "_content/DataAPI",
+      "RelativePath": "Resume-Soumit-Mondal.pdf",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "PreferTarget",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\Resume-Soumit-Mondal.pdf"
+    }
+  ]
+}
